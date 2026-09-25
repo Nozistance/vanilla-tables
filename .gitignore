@@ -1,0 +1,10 @@
+/target
+/.cpcache
+/data
+/.idea
+*.iml
+/logs
+/.clj-kondo
+/.lsp
+CLAUDE.md
+/.nrepl-port
