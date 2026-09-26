@@ -12,7 +12,7 @@ java -jar vanilla-tables.jar generate
 java -jar vanilla-tables.jar generate --jar server.jar
 
 # write the tables next to the server
-java -jar vanilla-tables.jar generate --out /srv/collider/data
+java -jar vanilla-tables.jar generate --out /data
 
 # tell if data/ holds a full set of tables
 java -jar vanilla-tables.jar check data
